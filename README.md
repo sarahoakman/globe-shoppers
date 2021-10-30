@@ -9,3 +9,10 @@
 * cd Website
 * python3 run.py
 * open the link in a browser e.g. localhost
+
+## Collaborators
+* Amanda Li
+* Sarah Oakman
+* Lavanya Sood
+* Yin Huey Tan
+* Yiyun Yang
