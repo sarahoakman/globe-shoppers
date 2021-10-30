@@ -1,4 +1,5 @@
 # GlobeShoppers
+![](globeshoppers.gif)
 ## Overview
 * Peer to peer marketplace that matches locals with overseas travellers who are willing to bring back items for them
 * Created a mock-up prototype that allows for buying items online, travellers accepting offers and a messaging system
